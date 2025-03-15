@@ -1,0 +1,102 @@
+[
+ {
+  "user": "microsoft",
+  "repo": "playwright",
+  "url": "https://github.com/microsoft/playwright"
+ },
+ {
+  "user": "apify",
+  "repo": "crawlee",
+  "url": "https://github.com/apify/crawlee"
+ },
+ {
+  "user": "checkly",
+  "repo": "headless-recorder",
+  "url": "https://github.com/checkly/headless-recorder"
+ },
+ {
+  "user": "Skyvern-AI",
+  "repo": "skyvern",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-python",
+  "url": "https://github.com/microsoft/playwright-python"
+ },
+ {
+  "user": "browserless",
+  "repo": "browserless",
+  "url": "https://github.com/browserless/browserless"
+ },
+ {
+  "user": "getmaxun",
+  "repo": "maxun",
+  "url": "https://github.com/getmaxun/maxun"
+ },
+ {
+  "user": "browserbase",
+  "repo": "stagehand",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "user": "artilleryio",
+  "repo": "artillery",
+  "url": "https://github.com/artilleryio/artillery"
+ },
+ {
+  "user": "lightpanda-io",
+  "repo": "browser",
+  "url": "https://github.com/lightpanda-io/browser"
+ },
+ {
+  "user": "apify",
+  "repo": "crawlee-python",
+  "url": "https://github.com/apify/crawlee-python"
+ },
+ {
+  "user": "mishushakov",
+  "repo": "llm-scraper",
+  "url": "https://github.com/mishushakov/llm-scraper"
+ },
+ {
+  "user": "antiwork",
+  "repo": "shortest",
+  "url": "https://github.com/antiwork/shortest"
+ },
+ {
+  "user": "codeceptjs",
+  "repo": "CodeceptJS",
+  "url": "https://github.com/codeceptjs/CodeceptJS"
+ },
+ {
+  "user": "qawolf",
+  "repo": "qawolf",
+  "url": "https://github.com/qawolf/qawolf"
+ },
+ {
+  "user": "bjesus",
+  "repo": "pipet",
+  "url": "https://github.com/bjesus/pipet"
+ },
+ {
+  "user": "vogler",
+  "repo": "free-games-claimer",
+  "url": "https://github.com/vogler/free-games-claimer"
+ },
+ {
+  "user": "microsoft",
+  "repo": "dotnet-podcasts",
+  "url": "https://github.com/microsoft/dotnet-podcasts"
+ },
+ {
+  "user": "D4Vinci",
+  "repo": "Scrapling",
+  "url": "https://github.com/D4Vinci/Scrapling"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-dotnet",
+  "url": "https://github.com/microsoft/playwright-dotnet"
+ }
+]
